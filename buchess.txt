@@ -1,1 +1,1 @@
-https://buchess.pythonanywhere.com
+https://github.com/buchesss/buchess/releases/download/Buchess/BuChessR.zip
